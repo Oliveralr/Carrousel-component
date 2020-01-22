@@ -1,2 +1,2 @@
-# Carrousel-component :carousell:
-## Componente Propio sin uso de bibliotecas :grimace:
+# Carrousel-component :start:
+## Componente Propio sin uso de bibliotecas :octocat:
