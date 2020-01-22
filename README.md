@@ -1,2 +1,2 @@
-# Carrousel-component
-Componente Propio sin uso de bibliotecas
+# Carrousel-component :circus:
+## Componente Propio sin uso de bibliotecas :grimace:
