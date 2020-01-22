@@ -15,7 +15,7 @@ for (let i = 0; i < links.length; i++) {
 
 links[activeLink].classList.add("active");
 
-function setClickedItem(e) {
+const setClickedItem = (e) => {
     removeActiveLinks();
     let clickedLink = e.target;
 
@@ -23,18 +23,20 @@ function setClickedItem(e) {
     changePosition(clickedLink);
 }
     
-function removeActiveLinks() {
+const removeActiveLinks = () => {
     for (let i = 0; i < links.length; i++) {
         links[i].classList.remove("active"); 
     }
 }
 
 // Handle changing the slider position as well as ensure // the correct link is highlighted as being active 
-function changePosition(link) {
+const changePosition = (link) => {
     let position = link.getAttribute("data-pos");
     let translateValue = "translate3d(" + position + ", 0px, 0)";
     
     wrapper.style.transform = translateValue; 
     link.classList.add("active");
 }
-    
+
+//Status message -- should be deleted, this was added as proof-error message.
+console.log("Script is Working!");
