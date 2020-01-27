@@ -1,3 +1,4 @@
+'use strict';
 // just querying the DOM...like a boss!
 let links = document.querySelectorAll(".itemLinks"); 
 let wrapper = document.querySelector("#wrapper");
