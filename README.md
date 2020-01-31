@@ -1,2 +1,2 @@
-# Carrousel-component :metal::bowtie:
+# Carrousel-component :metal:
 ## Componente Propio sin uso de bibliotecas :godmode:
