@@ -1,2 +1,2 @@
-# Carrousel-component :star:
-## Componente Propio sin uso de bibliotecas :octocat:
+# Carrousel-component :metal::bowtie:
+## Componente Propio sin uso de bibliotecas :godmode:
